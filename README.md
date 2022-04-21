@@ -22,5 +22,7 @@ to render the animation. It should produce an output very similar to the one sto
 ## More updates:
 I plan to write a ton of more manim community/ maybe even 3b1b manim files soon, please stay tuned.
 
+## Update:
+A few more videos were generated following the submission for 5-MICC @ ICASSP 2022 
 
 
